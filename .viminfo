@@ -12,7 +12,13 @@
 ~H
 # Command Line History (newest to oldest):
 :wq
-|2,0,1684957189,,"wq"
+|2,0,1684999929,,"wq"
+:q
+|2,0,1684989300,,"q"
+:wq!
+|2,0,1684989290,,"wq!"
+:.,$!
+|2,0,1684989285,,".,$!"
 
 # Search String History (newest to oldest):
 
@@ -25,28 +31,142 @@
 # Registers:
 
 # File marks:
-'0  8  0  ~/docker-compose.yml
-|4,48,8,0,1684957189,"~/docker-compose.yml"
-'1  12  0  ~/Dockerfile
-|4,49,12,0,1684957154,"~/Dockerfile"
-'2  3  0  ~/requirement.txt
-|4,50,3,0,1684957141,"~/requirement.txt"
-'3  24  0  ~/app.py
-|4,51,24,0,1684957123,"~/app.py"
-'4  5  0  ~/Dockerfile_with_run
-|4,52,5,0,1684954223,"~/Dockerfile_with_run"
-'5  4  0  ~/Dockerfile_without_run
-|4,53,4,0,1684954186,"~/Dockerfile_without_run"
+'0  8  29  ~/Dockerfile
+|4,48,8,29,1684999929,"~/Dockerfile"
+'1  7  31  ~/Dockerfile
+|4,49,7,31,1684999304,"~/Dockerfile"
+'2  7  31  ~/Dockerfile
+|4,50,7,31,1684999304,"~/Dockerfile"
+'3  12  0  /etc/systemd/system/jenkins.service
+|4,51,12,0,1684995843,"/etc/systemd/system/jenkins.service"
+'4  12  0  /etc/systemd/system/jenkins.service
+|4,52,12,0,1684995843,"/etc/systemd/system/jenkins.service"
+'5  8  0  ~/docker-compose.yml
+|4,53,8,0,1684957189,"~/docker-compose.yml"
+'6  12  0  ~/Dockerfile
+|4,54,12,0,1684957154,"~/Dockerfile"
+'7  12  0  ~/Dockerfile
+|4,55,12,0,1684957154,"~/Dockerfile"
+'8  12  0  ~/Dockerfile
+|4,56,12,0,1684957154,"~/Dockerfile"
+'9  12  0  ~/Dockerfile
+|4,57,12,0,1684957154,"~/Dockerfile"
 
 # Jumplist (newest first):
+-'  8  29  ~/Dockerfile
+|4,39,8,29,1684999929,"~/Dockerfile"
+-'  7  31  ~/Dockerfile
+|4,39,7,31,1684999923,"~/Dockerfile"
+-'  7  31  ~/Dockerfile
+|4,39,7,31,1684999304,"~/Dockerfile"
+-'  12  0  ~/Dockerfile
+|4,39,12,0,1684999291,"~/Dockerfile"
+-'  12  0  ~/Dockerfile
+|4,39,12,0,1684999291,"~/Dockerfile"
+-'  12  0  /etc/systemd/system/jenkins.service
+|4,39,12,0,1684995843,"/etc/systemd/system/jenkins.service"
+-'  12  0  /etc/systemd/system/jenkins.service
+|4,39,12,0,1684995843,"/etc/systemd/system/jenkins.service"
+-'  12  0  /etc/systemd/system/jenkins.service
+|4,39,12,0,1684995843,"/etc/systemd/system/jenkins.service"
+-'  12  0  /etc/systemd/system/jenkins.service
+|4,39,12,0,1684995843,"/etc/systemd/system/jenkins.service"
+-'  12  0  /etc/systemd/system/jenkins.service
+|4,39,12,0,1684995843,"/etc/systemd/system/jenkins.service"
+-'  12  0  /etc/systemd/system/jenkins.service
+|4,39,12,0,1684995843,"/etc/systemd/system/jenkins.service"
+-'  12  0  /etc/systemd/system/jenkins.service
+|4,39,12,0,1684995843,"/etc/systemd/system/jenkins.service"
+-'  12  0  /etc/systemd/system/jenkins.service
+|4,39,12,0,1684995843,"/etc/systemd/system/jenkins.service"
+-'  1  0  /etc/systemd/system/jenkins.service
+|4,39,1,0,1684989354,"/etc/systemd/system/jenkins.service"
+-'  1  0  /etc/systemd/system/jenkins.service
+|4,39,1,0,1684989354,"/etc/systemd/system/jenkins.service"
+-'  1  0  /etc/systemd/system/jenkins.service
+|4,39,1,0,1684989354,"/etc/systemd/system/jenkins.service"
+-'  1  0  /etc/systemd/system/jenkins.service
+|4,39,1,0,1684989354,"/etc/systemd/system/jenkins.service"
+-'  1  0  /etc/systemd/system/jenkins.service
+|4,39,1,0,1684989211,"/etc/systemd/system/jenkins.service"
+-'  1  0  /etc/systemd/system/jenkins.service
+|4,39,1,0,1684989211,"/etc/systemd/system/jenkins.service"
+-'  1  0  /etc/systemd/system/jenkins.service
+|4,39,1,0,1684989211,"/etc/systemd/system/jenkins.service"
+-'  1  0  /etc/systemd/system/jenkins.service
+|4,39,1,0,1684989211,"/etc/systemd/system/jenkins.service"
 -'  8  0  ~/docker-compose.yml
 |4,39,8,0,1684957189,"~/docker-compose.yml"
+-'  8  0  ~/docker-compose.yml
+|4,39,8,0,1684957189,"~/docker-compose.yml"
+-'  8  0  ~/docker-compose.yml
+|4,39,8,0,1684957189,"~/docker-compose.yml"
+-'  8  0  ~/docker-compose.yml
+|4,39,8,0,1684957189,"~/docker-compose.yml"
+-'  8  0  ~/docker-compose.yml
+|4,39,8,0,1684957189,"~/docker-compose.yml"
+-'  8  0  ~/docker-compose.yml
+|4,39,8,0,1684957189,"~/docker-compose.yml"
+-'  8  0  ~/docker-compose.yml
+|4,39,8,0,1684957189,"~/docker-compose.yml"
+-'  8  0  ~/docker-compose.yml
+|4,39,8,0,1684957189,"~/docker-compose.yml"
+-'  8  0  ~/docker-compose.yml
+|4,39,8,0,1684957189,"~/docker-compose.yml"
+-'  8  0  ~/docker-compose.yml
+|4,39,8,0,1684957189,"~/docker-compose.yml"
+-'  8  0  ~/docker-compose.yml
+|4,39,8,0,1684957189,"~/docker-compose.yml"
+-'  8  0  ~/docker-compose.yml
+|4,39,8,0,1684957189,"~/docker-compose.yml"
+-'  1  0  ~/docker-compose.yml
+|4,39,1,0,1684957183,"~/docker-compose.yml"
+-'  1  0  ~/docker-compose.yml
+|4,39,1,0,1684957183,"~/docker-compose.yml"
+-'  1  0  ~/docker-compose.yml
+|4,39,1,0,1684957183,"~/docker-compose.yml"
+-'  1  0  ~/docker-compose.yml
+|4,39,1,0,1684957183,"~/docker-compose.yml"
+-'  1  0  ~/docker-compose.yml
+|4,39,1,0,1684957183,"~/docker-compose.yml"
+-'  1  0  ~/docker-compose.yml
+|4,39,1,0,1684957183,"~/docker-compose.yml"
+-'  1  0  ~/docker-compose.yml
+|4,39,1,0,1684957183,"~/docker-compose.yml"
+-'  1  0  ~/docker-compose.yml
+|4,39,1,0,1684957183,"~/docker-compose.yml"
+-'  1  0  ~/docker-compose.yml
+|4,39,1,0,1684957183,"~/docker-compose.yml"
+-'  1  0  ~/docker-compose.yml
+|4,39,1,0,1684957183,"~/docker-compose.yml"
+-'  1  0  ~/docker-compose.yml
+|4,39,1,0,1684957183,"~/docker-compose.yml"
 -'  1  0  ~/docker-compose.yml
 |4,39,1,0,1684957183,"~/docker-compose.yml"
 -'  12  0  ~/Dockerfile
 |4,39,12,0,1684957154,"~/Dockerfile"
 -'  12  0  ~/Dockerfile
 |4,39,12,0,1684957154,"~/Dockerfile"
+-'  12  0  ~/Dockerfile
+|4,39,12,0,1684957154,"~/Dockerfile"
+-'  12  0  ~/Dockerfile
+|4,39,12,0,1684957154,"~/Dockerfile"
+-'  12  0  ~/Dockerfile
+|4,39,12,0,1684957154,"~/Dockerfile"
+-'  12  0  ~/Dockerfile
+|4,39,12,0,1684957154,"~/Dockerfile"
+-'  1  0  ~/Dockerfile
+|4,39,1,0,1684957150,"~/Dockerfile"
+-'  1  0  ~/Dockerfile
+|4,39,1,0,1684957150,"~/Dockerfile"
+-'  1  0  ~/Dockerfile
+|4,39,1,0,1684957150,"~/Dockerfile"
+-'  1  0  ~/Dockerfile
+|4,39,1,0,1684957150,"~/Dockerfile"
+-'  1  0  ~/Dockerfile
+|4,39,1,0,1684957150,"~/Dockerfile"
+-'  1  0  ~/Dockerfile
+|4,39,1,0,1684957150,"~/Dockerfile"
 -'  1  0  ~/Dockerfile
 |4,39,1,0,1684957150,"~/Dockerfile"
 -'  1  0  ~/Dockerfile
@@ -59,188 +179,99 @@
 |4,39,3,0,1684957141,"~/requirement.txt"
 -'  3  0  ~/requirement.txt
 |4,39,3,0,1684957141,"~/requirement.txt"
--'  1  0  ~/requirement.txt
-|4,39,1,0,1684957134,"~/requirement.txt"
--'  1  0  ~/requirement.txt
-|4,39,1,0,1684957134,"~/requirement.txt"
--'  1  0  ~/requirement.txt
-|4,39,1,0,1684957134,"~/requirement.txt"
--'  1  0  ~/requirement.txt
-|4,39,1,0,1684957134,"~/requirement.txt"
--'  24  0  ~/app.py
-|4,39,24,0,1684957123,"~/app.py"
--'  24  0  ~/app.py
-|4,39,24,0,1684957123,"~/app.py"
--'  24  0  ~/app.py
-|4,39,24,0,1684957123,"~/app.py"
--'  24  0  ~/app.py
-|4,39,24,0,1684957123,"~/app.py"
--'  24  0  ~/app.py
-|4,39,24,0,1684957123,"~/app.py"
--'  24  0  ~/app.py
-|4,39,24,0,1684957123,"~/app.py"
--'  24  0  ~/app.py
-|4,39,24,0,1684957123,"~/app.py"
--'  24  0  ~/app.py
-|4,39,24,0,1684957123,"~/app.py"
--'  1  0  ~/app.py
-|4,39,1,0,1684957113,"~/app.py"
--'  1  0  ~/app.py
-|4,39,1,0,1684957113,"~/app.py"
--'  1  0  ~/app.py
-|4,39,1,0,1684957113,"~/app.py"
--'  1  0  ~/app.py
-|4,39,1,0,1684957113,"~/app.py"
--'  1  0  ~/app.py
-|4,39,1,0,1684957113,"~/app.py"
--'  1  0  ~/app.py
-|4,39,1,0,1684957113,"~/app.py"
--'  1  0  ~/app.py
-|4,39,1,0,1684957113,"~/app.py"
--'  1  0  ~/app.py
-|4,39,1,0,1684957113,"~/app.py"
--'  5  0  ~/Dockerfile_with_run
-|4,39,5,0,1684954223,"~/Dockerfile_with_run"
--'  5  0  ~/Dockerfile_with_run
-|4,39,5,0,1684954223,"~/Dockerfile_with_run"
--'  5  0  ~/Dockerfile_with_run
-|4,39,5,0,1684954223,"~/Dockerfile_with_run"
--'  5  0  ~/Dockerfile_with_run
-|4,39,5,0,1684954223,"~/Dockerfile_with_run"
--'  5  0  ~/Dockerfile_with_run
-|4,39,5,0,1684954223,"~/Dockerfile_with_run"
--'  5  0  ~/Dockerfile_with_run
-|4,39,5,0,1684954223,"~/Dockerfile_with_run"
--'  5  0  ~/Dockerfile_with_run
-|4,39,5,0,1684954223,"~/Dockerfile_with_run"
--'  5  0  ~/Dockerfile_with_run
-|4,39,5,0,1684954223,"~/Dockerfile_with_run"
--'  5  0  ~/Dockerfile_with_run
-|4,39,5,0,1684954223,"~/Dockerfile_with_run"
--'  5  0  ~/Dockerfile_with_run
-|4,39,5,0,1684954223,"~/Dockerfile_with_run"
--'  5  0  ~/Dockerfile_with_run
-|4,39,5,0,1684954223,"~/Dockerfile_with_run"
--'  5  0  ~/Dockerfile_with_run
-|4,39,5,0,1684954223,"~/Dockerfile_with_run"
--'  5  0  ~/Dockerfile_with_run
-|4,39,5,0,1684954223,"~/Dockerfile_with_run"
--'  5  0  ~/Dockerfile_with_run
-|4,39,5,0,1684954223,"~/Dockerfile_with_run"
--'  5  0  ~/Dockerfile_with_run
-|4,39,5,0,1684954223,"~/Dockerfile_with_run"
--'  5  0  ~/Dockerfile_with_run
-|4,39,5,0,1684954223,"~/Dockerfile_with_run"
--'  1  0  ~/Dockerfile_with_run
-|4,39,1,0,1684954209,"~/Dockerfile_with_run"
--'  1  0  ~/Dockerfile_with_run
-|4,39,1,0,1684954209,"~/Dockerfile_with_run"
--'  1  0  ~/Dockerfile_with_run
-|4,39,1,0,1684954209,"~/Dockerfile_with_run"
--'  1  0  ~/Dockerfile_with_run
-|4,39,1,0,1684954209,"~/Dockerfile_with_run"
--'  1  0  ~/Dockerfile_with_run
-|4,39,1,0,1684954209,"~/Dockerfile_with_run"
--'  1  0  ~/Dockerfile_with_run
-|4,39,1,0,1684954209,"~/Dockerfile_with_run"
--'  1  0  ~/Dockerfile_with_run
-|4,39,1,0,1684954209,"~/Dockerfile_with_run"
--'  1  0  ~/Dockerfile_with_run
-|4,39,1,0,1684954209,"~/Dockerfile_with_run"
--'  1  0  ~/Dockerfile_with_run
-|4,39,1,0,1684954209,"~/Dockerfile_with_run"
--'  1  0  ~/Dockerfile_with_run
-|4,39,1,0,1684954209,"~/Dockerfile_with_run"
--'  1  0  ~/Dockerfile_with_run
-|4,39,1,0,1684954209,"~/Dockerfile_with_run"
--'  1  0  ~/Dockerfile_with_run
-|4,39,1,0,1684954209,"~/Dockerfile_with_run"
--'  1  0  ~/Dockerfile_with_run
-|4,39,1,0,1684954209,"~/Dockerfile_with_run"
--'  1  0  ~/Dockerfile_with_run
-|4,39,1,0,1684954209,"~/Dockerfile_with_run"
--'  1  0  ~/Dockerfile_with_run
-|4,39,1,0,1684954209,"~/Dockerfile_with_run"
--'  1  0  ~/Dockerfile_with_run
-|4,39,1,0,1684954209,"~/Dockerfile_with_run"
--'  4  0  ~/Dockerfile_without_run
-|4,39,4,0,1684954186,"~/Dockerfile_without_run"
--'  4  0  ~/Dockerfile_without_run
-|4,39,4,0,1684954186,"~/Dockerfile_without_run"
--'  4  0  ~/Dockerfile_without_run
-|4,39,4,0,1684954186,"~/Dockerfile_without_run"
--'  4  0  ~/Dockerfile_without_run
-|4,39,4,0,1684954186,"~/Dockerfile_without_run"
--'  4  0  ~/Dockerfile_without_run
-|4,39,4,0,1684954186,"~/Dockerfile_without_run"
--'  4  0  ~/Dockerfile_without_run
-|4,39,4,0,1684954186,"~/Dockerfile_without_run"
--'  4  0  ~/Dockerfile_without_run
-|4,39,4,0,1684954186,"~/Dockerfile_without_run"
--'  4  0  ~/Dockerfile_without_run
-|4,39,4,0,1684954186,"~/Dockerfile_without_run"
--'  4  0  ~/Dockerfile_without_run
-|4,39,4,0,1684954186,"~/Dockerfile_without_run"
--'  4  0  ~/Dockerfile_without_run
-|4,39,4,0,1684954186,"~/Dockerfile_without_run"
--'  4  0  ~/Dockerfile_without_run
-|4,39,4,0,1684954186,"~/Dockerfile_without_run"
--'  4  0  ~/Dockerfile_without_run
-|4,39,4,0,1684954186,"~/Dockerfile_without_run"
--'  4  0  ~/Dockerfile_without_run
-|4,39,4,0,1684954186,"~/Dockerfile_without_run"
--'  4  0  ~/Dockerfile_without_run
-|4,39,4,0,1684954186,"~/Dockerfile_without_run"
--'  4  0  ~/Dockerfile_without_run
-|4,39,4,0,1684954186,"~/Dockerfile_without_run"
--'  4  0  ~/Dockerfile_without_run
-|4,39,4,0,1684954186,"~/Dockerfile_without_run"
--'  4  0  ~/Dockerfile_without_run
-|4,39,4,0,1684954186,"~/Dockerfile_without_run"
--'  4  0  ~/Dockerfile_without_run
-|4,39,4,0,1684954186,"~/Dockerfile_without_run"
--'  4  0  ~/Dockerfile_without_run
-|4,39,4,0,1684954186,"~/Dockerfile_without_run"
--'  4  0  ~/Dockerfile_without_run
-|4,39,4,0,1684954186,"~/Dockerfile_without_run"
--'  4  0  ~/Dockerfile_without_run
-|4,39,4,0,1684954186,"~/Dockerfile_without_run"
--'  4  0  ~/Dockerfile_without_run
-|4,39,4,0,1684954186,"~/Dockerfile_without_run"
--'  4  0  ~/Dockerfile_without_run
-|4,39,4,0,1684954186,"~/Dockerfile_without_run"
--'  4  0  ~/Dockerfile_without_run
-|4,39,4,0,1684954186,"~/Dockerfile_without_run"
--'  4  0  ~/Dockerfile_without_run
-|4,39,4,0,1684954186,"~/Dockerfile_without_run"
--'  4  0  ~/Dockerfile_without_run
-|4,39,4,0,1684954186,"~/Dockerfile_without_run"
--'  4  0  ~/Dockerfile_without_run
-|4,39,4,0,1684954186,"~/Dockerfile_without_run"
--'  4  0  ~/Dockerfile_without_run
-|4,39,4,0,1684954186,"~/Dockerfile_without_run"
--'  4  0  ~/Dockerfile_without_run
-|4,39,4,0,1684954186,"~/Dockerfile_without_run"
--'  4  0  ~/Dockerfile_without_run
-|4,39,4,0,1684954186,"~/Dockerfile_without_run"
--'  4  0  ~/Dockerfile_without_run
-|4,39,4,0,1684954186,"~/Dockerfile_without_run"
--'  4  0  ~/Dockerfile_without_run
-|4,39,4,0,1684954186,"~/Dockerfile_without_run"
--'  1  0  ~/Dockerfile_without_run
-|4,39,1,0,1684954177,"~/Dockerfile_without_run"
--'  1  0  ~/Dockerfile_without_run
-|4,39,1,0,1684954177,"~/Dockerfile_without_run"
--'  1  0  ~/Dockerfile_without_run
-|4,39,1,0,1684954177,"~/Dockerfile_without_run"
--'  1  0  ~/Dockerfile_without_run
-|4,39,1,0,1684954177,"~/Dockerfile_without_run"
--'  1  0  ~/Dockerfile_without_run
-|4,39,1,0,1684954177,"~/Dockerfile_without_run"
--'  1  0  ~/Dockerfile_without_run
-|4,39,1,0,1684954177,"~/Dockerfile_without_run"
+-'  3  0  ~/requirement.txt
+|4,39,3,0,1684957141,"~/requirement.txt"
+-'  3  0  ~/requirement.txt
+|4,39,3,0,1684957141,"~/requirement.txt"
+-'  3  0  ~/requirement.txt
+|4,39,3,0,1684957141,"~/requirement.txt"
+-'  3  0  ~/requirement.txt
+|4,39,3,0,1684957141,"~/requirement.txt"
+-'  3  0  ~/requirement.txt
+|4,39,3,0,1684957141,"~/requirement.txt"
+-'  3  0  ~/requirement.txt
+|4,39,3,0,1684957141,"~/requirement.txt"
+-'  3  0  ~/requirement.txt
+|4,39,3,0,1684957141,"~/requirement.txt"
+-'  3  0  ~/requirement.txt
+|4,39,3,0,1684957141,"~/requirement.txt"
+-'  3  0  ~/requirement.txt
+|4,39,3,0,1684957141,"~/requirement.txt"
+-'  3  0  ~/requirement.txt
+|4,39,3,0,1684957141,"~/requirement.txt"
+-'  3  0  ~/requirement.txt
+|4,39,3,0,1684957141,"~/requirement.txt"
+-'  3  0  ~/requirement.txt
+|4,39,3,0,1684957141,"~/requirement.txt"
+-'  3  0  ~/requirement.txt
+|4,39,3,0,1684957141,"~/requirement.txt"
+-'  3  0  ~/requirement.txt
+|4,39,3,0,1684957141,"~/requirement.txt"
+-'  3  0  ~/requirement.txt
+|4,39,3,0,1684957141,"~/requirement.txt"
+-'  3  0  ~/requirement.txt
+|4,39,3,0,1684957141,"~/requirement.txt"
+-'  3  0  ~/requirement.txt
+|4,39,3,0,1684957141,"~/requirement.txt"
+-'  3  0  ~/requirement.txt
+|4,39,3,0,1684957141,"~/requirement.txt"
+-'  3  0  ~/requirement.txt
+|4,39,3,0,1684957141,"~/requirement.txt"
+-'  3  0  ~/requirement.txt
+|4,39,3,0,1684957141,"~/requirement.txt"
+-'  3  0  ~/requirement.txt
+|4,39,3,0,1684957141,"~/requirement.txt"
+-'  3  0  ~/requirement.txt
+|4,39,3,0,1684957141,"~/requirement.txt"
+-'  3  0  ~/requirement.txt
+|4,39,3,0,1684957141,"~/requirement.txt"
+-'  3  0  ~/requirement.txt
+|4,39,3,0,1684957141,"~/requirement.txt"
+-'  3  0  ~/requirement.txt
+|4,39,3,0,1684957141,"~/requirement.txt"
+-'  3  0  ~/requirement.txt
+|4,39,3,0,1684957141,"~/requirement.txt"
+-'  3  0  ~/requirement.txt
+|4,39,3,0,1684957141,"~/requirement.txt"
+-'  3  0  ~/requirement.txt
+|4,39,3,0,1684957141,"~/requirement.txt"
+-'  3  0  ~/requirement.txt
+|4,39,3,0,1684957141,"~/requirement.txt"
+-'  3  0  ~/requirement.txt
+|4,39,3,0,1684957141,"~/requirement.txt"
+-'  3  0  ~/requirement.txt
+|4,39,3,0,1684957141,"~/requirement.txt"
+-'  3  0  ~/requirement.txt
+|4,39,3,0,1684957141,"~/requirement.txt"
+-'  3  0  ~/requirement.txt
+|4,39,3,0,1684957141,"~/requirement.txt"
+-'  3  0  ~/requirement.txt
+|4,39,3,0,1684957141,"~/requirement.txt"
+-'  3  0  ~/requirement.txt
+|4,39,3,0,1684957141,"~/requirement.txt"
+-'  3  0  ~/requirement.txt
+|4,39,3,0,1684957141,"~/requirement.txt"
+-'  3  0  ~/requirement.txt
+|4,39,3,0,1684957141,"~/requirement.txt"
 
 # History of marks within files (newest to oldest):
+
+> ~/Dockerfile
+	*	1684999928	0
+	"	8	29
+	^	8	30
+	.	8	30
+	+	11	20
+	+	7	32
+	+	8	30
+
+> /etc/systemd/system/jenkins.service
+	*	1684989382	0
+	"	12	0
+	^	12	0
+	.	11	26
+	+	1	5
+	+	11	26
 
 > ~/docker-compose.yml
 	*	1684957187	0
@@ -248,13 +279,6 @@
 	^	8	0
 	.	7	25
 	+	7	25
-
-> ~/Dockerfile
-	*	1684957152	0
-	"	12	0
-	^	12	0
-	.	11	20
-	+	11	20
 
 > ~/requirement.txt
 	*	1684957140	0
